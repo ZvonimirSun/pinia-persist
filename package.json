@@ -1,6 +1,5 @@
 {
-  "name": "pinia-persist",
-  "private": true,
+  "name": "@zvonimirsun/pinia-persist",
   "version": "0.0.1",
   "type": "module",
   "files": [
@@ -17,6 +16,10 @@
   },
   "scripts": {
     "build": "tsc && vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZvonimirSun/pinia-persist.git"
   },
   "devDependencies": {
     "@types/lodash-es": "^4.17.6",
